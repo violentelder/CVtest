@@ -1,0 +1,4 @@
+﻿  CVtest.cpp
+d:\opencv\cvtest\cvtest\cvtest.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CVtest.vcxproj -> D:\OpenCV\CVtest\x64\Debug\CVtest.exe
+  CVtest.vcxproj -> D:\OpenCV\CVtest\x64\Debug\CVtest.pdb (Full PDB)

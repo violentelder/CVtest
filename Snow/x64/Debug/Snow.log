@@ -1,0 +1,4 @@
+﻿  Snow.cpp
+d:\opencv\cvtest\snow\snow.cpp(10): warning C4129: “l”: 不可识别的字符转义序列
+  Snow.vcxproj -> D:\OpenCV\CVtest\x64\Debug\Snow.exe
+  Snow.vcxproj -> D:\OpenCV\CVtest\x64\Debug\Snow.pdb (Full PDB)
